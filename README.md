@@ -5,4 +5,4 @@
 
 #### Output email 
 
-![E-mail Screenshot](Images/email_screenshot.png)
+![E-mail Screenshot](Images/email_spam_screenshot.png)
